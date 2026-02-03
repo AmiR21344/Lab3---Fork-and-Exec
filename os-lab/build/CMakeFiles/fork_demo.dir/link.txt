@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/fork_demo.dir/src/fork_demo.c.o -o fork_demo 

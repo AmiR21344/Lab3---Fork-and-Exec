@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch6_pipe_sum.dir/challenges/ch6_pipe_sum.c.o -o ch6_pipe_sum 

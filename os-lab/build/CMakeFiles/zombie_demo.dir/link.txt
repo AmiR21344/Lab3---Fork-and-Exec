@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/zombie_demo.dir/src/zombie_demo.c.o -o zombie_demo 

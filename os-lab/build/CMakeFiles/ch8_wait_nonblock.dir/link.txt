@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch8_wait_nonblock.dir/challenges/ch8_wait_nonblock.c.o -o ch8_wait_nonblock 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/exec_demo.dir/src/exec_demo.c.o -o exec_demo 

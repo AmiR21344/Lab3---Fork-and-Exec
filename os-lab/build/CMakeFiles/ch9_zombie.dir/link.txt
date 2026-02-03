@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch9_zombie.dir/challenges/ch9_zombie.c.o -o ch9_zombie 

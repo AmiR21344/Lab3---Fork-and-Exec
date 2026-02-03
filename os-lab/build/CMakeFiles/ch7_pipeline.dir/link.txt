@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch7_pipeline.dir/challenges/ch7_pipeline.c.o -o ch7_pipeline 

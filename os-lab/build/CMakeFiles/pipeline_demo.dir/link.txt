@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/pipeline_demo.dir/src/pipeline_demo.c.o -o pipeline_demo 

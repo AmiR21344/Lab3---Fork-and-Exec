@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch3_exec_ls.dir/challenges/ch3_exec_ls.c.o -o ch3_exec_ls 

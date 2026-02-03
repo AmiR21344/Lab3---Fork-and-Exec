@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch10_pool.dir/challenges/ch10_pool.c.o -o ch10_pool 

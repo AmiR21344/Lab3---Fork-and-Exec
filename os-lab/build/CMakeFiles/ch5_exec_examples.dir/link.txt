@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch5_exec_examples.dir/challenges/ch5_exec_examples.c.o -o ch5_exec_examples 

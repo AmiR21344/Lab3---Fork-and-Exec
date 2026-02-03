@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ch2_multi_child.dir/challenges/ch2_multi_child.c.o -o ch2_multi_child 
